@@ -1,7 +1,7 @@
 {
   "name": "Web Browsing Tabbed",
   "description": "A python web browser by learnpyqt",
-  "repository": "https://github.com/heroku/node-js-getting-started",
+  "repository": "https://github.com/cyrussinc/15-minute-apps/tree/master/browser_tabbed",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "express", "static"]
 }
