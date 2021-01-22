@@ -8,7 +8,7 @@ which you can poke, hack and prod your way to writing your own tools.
 If you're new to creating GUI apps check out the introductory [pyqt5 tutorial](https://www.learnpyqt.com/courses/start/).
 
 ## The apps
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/cyrussinc/15-minute-apps/tree/master/browser_tabbed)
 
 The apps showcase various parts of the Qt framework, including advanced widgets,
 multimedia, graphics views and decorationless windows. However, the most
