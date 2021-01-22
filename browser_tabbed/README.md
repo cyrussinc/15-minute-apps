@@ -7,6 +7,12 @@ coincidental.
 
 ![Browser tabbed](screenshot-browser-tabbed.jpg)
 
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/cyrussinc/15-minute-apps/tree/master/browser_tabbed)
+
+
+https://github.com/cyrussinc/15-minute-apps/tree/master/browser_tabbed
 > If you think this app is neat and want to learn more about
 PyQt in general, take a look at my [free PyQt tutorials](https://www.learnpyqt.com)
 which cover everything you need to know to start building your own applications with PyQt.
